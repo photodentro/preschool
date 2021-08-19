@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="53.906559mm"
+   height="53.906666mm"
+   viewBox="0 0 53.906559 53.906666"
+   version="1.1"
+   id="svg2050"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="toyBall.svg">
+  <defs
+     id="defs2044">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath892">
+      <path
+         d="M 0,800 H 800 V 0 H 0 Z"
+         id="path890"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="22.098197"
+     inkscape:cy="-66.842495"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2047">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.855743,-77.241256)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-135.986,287.87061)"
+       id="g886">
+      <g
+         id="g888"
+         clip-path="url(#clipPath892)">
+        <g
+           id="g894"
+           transform="translate(397.0869,445.2537)">
+          <path
+             d="m 0,0 c -41.577,0 -75.402,33.826 -75.402,75.403 0,41.577 33.825,75.403 75.402,75.403 41.577,0 75.403,-33.826 75.403,-75.403 C 75.403,33.826 41.577,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path896"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g898"
+           transform="translate(397.0872,597.0593)">
+          <path
+             d="m 0,0 c -42.196,0 -76.403,-34.207 -76.403,-76.403 0,-42.196 34.207,-76.403 76.403,-76.403 42.196,0 76.403,34.207 76.403,76.403 C 76.403,-34.207 42.196,0 0,0 m 0,-2 c 41.026,0 74.403,-33.377 74.403,-74.403 0,-41.026 -33.377,-74.403 -74.403,-74.403 -41.026,0 -74.403,33.377 -74.403,74.403 C -74.403,-35.377 -41.026,-2 0,-2"
+             style="fill:#c9c9c9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path900"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g902"
+           transform="translate(384.0848,558.3176)">
+          <path
+             d="M 0,0 V 8.612 C 18.934,24.293 35.569,29.35 47.878,30.31 37.42,35.688 25.571,38.742 13.003,38.742 c -9.568,0 -18.717,-1.775 -27.158,-4.986 1.852,-7.079 4.02,-15.468 4.902,-19.27 V 5.324 l -4.769,-2.332 c 0,0 -24.988,0.369 -42.872,-9.802 -4.172,-9.437 -6.506,-19.869 -6.506,-30.851 0,-20.735 8.272,-39.528 21.68,-53.293 -3.803,7.221 -5.247,15.479 -3.863,24.723 4.667,31.156 31.561,63.292 31.561,63.292 h 9.184 c 15.444,-63.823 34.983,-96.429 42.326,-107.093 26.613,9.002 46.66,32.246 51.027,60.677 C 72.707,-9.49 0,0 0,0"
+             style="fill:#d65614;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path904"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g906"
+           transform="translate(392.1689,558.3522)">
+          <path
+             d="m 0,0 c 0,-7.131 -6.272,-12.911 -14.008,-12.911 -7.737,0 -14.009,5.78 -14.009,12.911 0,7.131 6.272,12.911 14.009,12.911 C -6.272,12.911 0,7.131 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path908"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

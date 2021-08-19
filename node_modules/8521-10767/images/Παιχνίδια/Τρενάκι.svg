@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328.12" height="147.65" viewBox="0 0 328.12 147.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #242a54;
+      }
+
+      .cls-2 {
+        fill: #93c021;
+      }
+
+      .cls-3 {
+        fill: #004c84;
+      }
+
+      .cls-4 {
+        fill: #2071b7;
+      }
+
+      .cls-5 {
+        fill: #d65614;
+      }
+
+      .cls-6 {
+        fill: #ffdc04;
+      }
+
+      .cls-7 {
+        fill: #248edd;
+      }
+    </style>
+  </defs>
+  <title>Asset 5toys1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Objects">
+      <g>
+        <rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" class="cls-1" x="93.75" y="114.4" width="27.95" height="11.77" rx="5.53" ry="5.53"/>
+        <g>
+          <path id="_Path_" data-name="&lt;Path&gt;" class="cls-2" d="M.79,66.32c1.83-3.72,96.93.3,97.85,1.36s2.27,46.08,0,46.79-96.4,1.42-97.18-1.42S-1,69.94.79,66.32Z"/>
+          <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-3" d="M1.46,113.05s0,11.94,1,13.12,88.54,4.32,94.07,3c3.16-1.64,2.12-14.75,2.12-14.75Z"/>
+          <circle id="_Path_3" data-name="&lt;Path&gt;" class="cls-4" cx="72.63" cy="129.22" r="9.78"/>
+          <circle id="_Path_4" data-name="&lt;Path&gt;" class="cls-4" cx="19.36" cy="128.15" r="9.78"/>
+        </g>
+        <g>
+          <path id="_Path_5" data-name="&lt;Path&gt;" class="cls-5" d="M275.73,76.87s48.11,42.57,52.36,52.64c1.3,3.09-54.13,4.1-54.13,4.1S274.31,78.46,275.73,76.87Z"/>
+          <path id="_Path_6" data-name="&lt;Path&gt;" class="cls-4" d="M248.79,55s-2.13-29.85,0-32,18.79,0,18.79,0V58.11Z"/>
+          <path id="_Path_7" data-name="&lt;Path&gt;" class="cls-4" d="M275.73,51.38s-77.41-3.07-79.29-1.71-6.84,52.39-3.65,53.81,82.58,1.06,82.94,0S278.92,54.57,275.73,51.38Z"/>
+          <path id="_Path_8" data-name="&lt;Path&gt;" class="cls-6" d="M242.71,10.26s-1.3,16.66,0,17.72,29.11,1.41,30.08-.68,1.89-15.41.31-17.18S245.3,9.55,242.71,10.26Z"/>
+          <g id="_Group_" data-name="&lt;Group&gt;">
+            <path id="_Path_9" data-name="&lt;Path&gt;" class="cls-6" d="M179.11,23.84c.25,10.31.65,30.84-.15,31.16-1.06.43-47.49,4.1-50,2-1.84-1.52-3.44-24.24-2.86-34.91l-16.64-.54s2.26,77.27,4.32,78.69,77.91,3.9,79,3.19,5-79,5-79Z"/>
+          </g>
+          <path id="_Path_10" data-name="&lt;Path&gt;" class="cls-5" d="M104.73.69c1.93-2.13,96.56,1.21,98.33,2.62s4.61,27.86,5,26.8-106.28,2.48-108.79,0S102.81,2.82,104.73.69Z"/>
+          <path id="_Path_11" data-name="&lt;Path&gt;" class="cls-3" d="M113.81,100.29s.29,25.52,1.71,28,155.25,6.38,158.44,5.32,1.77-30.13,1.77-30.13S121.32,99.94,113.81,100.29Z"/>
+          <circle id="_Path_12" data-name="&lt;Path&gt;" class="cls-4" cx="155.22" cy="124.99" r="18.43"/>
+          <circle id="_Path_13" data-name="&lt;Path&gt;" class="cls-7" cx="155.22" cy="124.99" r="6.63"/>
+          <circle id="_Path_14" data-name="&lt;Path&gt;" class="cls-4" cx="239.28" cy="129.22" r="18.43"/>
+          <circle id="_Path_15" data-name="&lt;Path&gt;" class="cls-7" cx="239.28" cy="129.22" r="6.63"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

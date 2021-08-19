@@ -1,0 +1,32 @@
+Copyright: 2018 Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+background.svg
+bar-chart.svg
+barChart.svg
+barPie.svg
+bar_about.svg
+bar_help.svg
+deleteRow.svg
+insertRow.svg
+new.svg
+print.svg
+redo.svg
+sortAsc.svg
+sortDesc.svg
+undo.svg
+
+Copyright 2018 https://www.chartjs.org/
+License: MIT License
+Files:
+Chart.bundle.min.js
+
+Copyright 2018 https://jquery.org/
+License: MIT License
+Files:
+jquery.min.js
+
+Copyright 2018 Paul Hodel
+License: MIT License
+Files:
+jquery.jexcel.js

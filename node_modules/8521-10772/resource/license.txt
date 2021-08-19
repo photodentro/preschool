@@ -1,0 +1,35 @@
+Copyright: 2018 Artemis Georgopoulou, Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+bar_about.svg
+bar_fullscreen.svg
+bar_help.svg
+bar_home.svg
+bar_next.svg
+bar_previous.svg
+
+Images from Freepik and Wikipedia:
+background.svg
+1a.jpg
+1b.jpg
+1c.jpg
+2a.jpg
+2b.jpg
+2c.jpg
+2d.jpg
+3a.jpg
+3b.jpg
+3c.jpg
+3d.jpg
+4a.jpg
+4b.jpg
+4c.jpg
+4d.jpg
+4e.jpg
+5a.jpg
+5b.jpg
+5c.jpg
+5d.jpg
+6a.jpg
+6b.jpg
+6c.jpg

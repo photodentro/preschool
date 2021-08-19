@@ -1,0 +1,28 @@
+#!/bin/sh
+# Convert a directory to tinymce image_list JSON format.
+# cd images/; and then run this.
+
+if [ ! -d "$1" ]; then
+    printf "Usage: %s directory\n" "$0" >&2
+    exit 1
+fi
+
+rawurlencode() {
+  echo "$1"
+}
+
+cd "$1"
+echo '['
+unset separator
+while read -r pic; do
+   pic=${pic#./}
+   line="  { \"title\": \"$(echo "${pic%.*}" | sed 's|/|: |')\", \"value\": \"$(rawurlencode "$pic")\" }"
+    # Avoid echoing the last comma
+    if [ -n "$line" ]; then
+        printf "$separator%s" "$line"
+        separator=",\n"
+    fi
+done <<EOF
+$(find . -type f | sort)
+EOF
+printf '\n]\n'

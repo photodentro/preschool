@@ -1,0 +1,36 @@
+Copyright: 2018 Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+bar_about.svg
+bar_help.svg
+bar_home.svg
+bar_next.svg
+bar_previous.svg
+background.svg
+backcard.svg
+emptycard.svg
+balloons_good.svg
+
+Copyright: 2018 Artemis Gergopoulou, Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+bar_fullscreen.svg
+
+Copyright: 2018 Designed by macrovector / Freepik
+License: Freepik free license
+dishes.png
+ironing.png
+laundry.png
+sweep.png
+trash.png
+vacuum.png
+windows.png
+
+Copyright: 2018 Soundbible
+License: Attribution 3.0
+dishesSound.ogg
+ironingSound.ogg
+laundrySound.ogg
+sweepSound.ogg
+trashSound.ogg
+vacuumSound.ogg
+windowsSound.ogg

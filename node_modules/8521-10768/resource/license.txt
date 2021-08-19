@@ -1,0 +1,13 @@
+Copyright: 2018 Artemis Georgopoulou, Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+background.svg
+bar_about.svg
+bar_fullscreen.svg
+bar_home.svg
+
+Copyright: http://literallycanvas.com/
+License: BSD-3-Clause
+Files:
+demo/*
+lib/*

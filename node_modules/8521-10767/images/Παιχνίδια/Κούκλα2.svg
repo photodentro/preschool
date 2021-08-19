@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175.81" height="209.24" viewBox="0 0 175.81 209.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbd7bf;
+      }
+
+      .cls-2 {
+        fill: #44bddb;
+      }
+
+      .cls-3 {
+        fill: #045497;
+      }
+
+      .cls-4 {
+        fill: #edaf00;
+      }
+
+      .cls-5 {
+        fill: #369fd7;
+      }
+
+      .cls-6 {
+        fill: #bd1823;
+      }
+
+      .cls-7 {
+        fill: #e30425;
+        opacity: 0.31;
+      }
+
+      .cls-8 {
+        fill: #bd8d2c;
+      }
+
+      .cls-9 {
+        fill: #bae2f9;
+      }
+    </style>
+  </defs>
+  <title>Asset 3toys1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Objects">
+      <g id="_Group_" data-name="&lt;Group&gt;">
+        <g>
+          <path id="_Path_" data-name="&lt;Path&gt;" class="cls-1" d="M115.35,99.46s25.9,19,39.23,23l-1.66,14.67s-32.81-6.33-37.57-10.67S115.35,99.46,115.35,99.46Z"/>
+          <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-1" d="M165.25,113c-15.55-4.06-22.09,28.5-5.3,33.5S182.75,117.53,165.25,113Z"/>
+        </g>
+        <g>
+          <path id="_Path_3" data-name="&lt;Path&gt;" class="cls-1" d="M60.46,100.16s-25.91,19-39.24,23l1.67,14.67s32.81-6.34,37.57-10.67S60.46,100.16,60.46,100.16Z"/>
+          <path id="_Path_4" data-name="&lt;Path&gt;" class="cls-1" d="M10.55,113.66c15.56-4.06,22.1,28.5,5.3,33.5S-6.95,118.23,10.55,113.66Z"/>
+        </g>
+        <g>
+          <path id="_Path_5" data-name="&lt;Path&gt;" class="cls-2" d="M58.22,97.16s-19.75,62-38.88,85.67c0,0,63.88,27.66,133.55,1.66,0,0-33.77-65.33-38.38-91Z"/>
+          <path id="_Path_6" data-name="&lt;Path&gt;" class="cls-3" d="M41.9,142.43s44.54,15.73,90.43-.6l3.31,7.26S97.81,174,37,152.08Z"/>
+        </g>
+        <g>
+          <ellipse id="_Path_7" data-name="&lt;Path&gt;" class="cls-4" cx="148.47" cy="22.83" rx="15" ry="21" transform="translate(10.59 82.44) rotate(-32.12)"/>
+          <ellipse id="_Path_8" data-name="&lt;Path&gt;" class="cls-4" cx="19.34" cy="18.81" rx="21" ry="15" transform="translate(-7.47 21.8) rotate(-50.55)"/>
+          <ellipse id="_Path_9" data-name="&lt;Path&gt;" class="cls-1" cx="81.19" cy="55.39" rx="65.33" ry="54.83"/>
+          <g id="_Group_2" data-name="&lt;Group&gt;">
+            <path id="_Path_10" data-name="&lt;Path&gt;" class="cls-4" d="M81.19.56C45.1.56,15.85,25.11,15.85,55.39a47,47,0,0,0,.77,8.43c18-2.49,51.83-11.11,65.93-41,0,0,24.13,28.8,63.92,34.15,0-.53.05-1,.05-1.59C146.52,25.11,117.27.56,81.19.56Z"/>
+          </g>
+          <ellipse id="_Path_11" data-name="&lt;Path&gt;" class="cls-5" cx="60.55" cy="60.11" rx="3.67" ry="4.72"/>
+          <ellipse id="_Path_12" data-name="&lt;Path&gt;" class="cls-5" cx="108.22" cy="57.83" rx="3.67" ry="4.72"/>
+          <path id="_Path_13" data-name="&lt;Path&gt;" class="cls-6" d="M72.45,74.83H99.78s-3.33,11.33-13.66,12S72.45,74.83,72.45,74.83Z"/>
+          <ellipse id="_Path_14" data-name="&lt;Path&gt;" class="cls-7" cx="120.55" cy="76.33" rx="11" ry="7.83"/>
+          <ellipse id="_Path_15" data-name="&lt;Path&gt;" class="cls-7" cx="49.06" cy="76.95" rx="11" ry="7.83"/>
+          <g id="_Group_3" data-name="&lt;Group&gt;">
+            <path class="cls-8" d="M95.36,41l.62-.61c.21-.16.47-.37.78-.59a4.54,4.54,0,0,1,1.11-.63,10.57,10.57,0,0,1,3.07-.93,19.81,19.81,0,0,1,3.69,0,20.49,20.49,0,0,1,3.49,1.22,10.86,10.86,0,0,1,2.57,1.9,4.63,4.63,0,0,1,.84,1c.22.31.39.6.53.82l.38.78-.81-.26a6.48,6.48,0,0,0-.88-.29c-.34-.1-.71-.21-1.1-.35-.75-.33-1.73-.43-2.64-.75a16.91,16.91,0,0,0-3-.59,16.46,16.46,0,0,0-3-.44c-1,0-1.92-.24-2.73-.18-.42,0-.8,0-1.16,0a4.87,4.87,0,0,0-.92,0Z"/>
+          </g>
+          <g id="_Group_4" data-name="&lt;Group&gt;">
+            <path class="cls-8" d="M50.84,47.8l.55-.77c.19-.22.42-.5.71-.8a5.62,5.62,0,0,1,1-.93,13,13,0,0,1,3-1.81A25.16,25.16,0,0,1,60,42.39a24.43,24.43,0,0,1,4,.11,13.1,13.1,0,0,1,3.35,1,5.68,5.68,0,0,1,1.23.65l.89.61.71.62-.93,0a5.87,5.87,0,0,0-1,0c-.4,0-.83,0-1.3,0-.92-.09-2,.12-3.1.08a21.22,21.22,0,0,0-3.42.35,19.73,19.73,0,0,0-3.41.51c-1.06.3-2.16.37-3,.67s-1.73.37-2.26.55Z"/>
+          </g>
+        </g>
+        <g>
+          <path id="_Path_16" data-name="&lt;Path&gt;" class="cls-9" d="M51,160.83c20.52-.05,22.78,48-1.68,48.33S30.67,160.87,51,160.83Z"/>
+          <path id="_Path_17" data-name="&lt;Path&gt;" class="cls-9" d="M114.85,160.89c20.38-2.43,28.19,45,3.93,48.2S94.62,163.29,114.85,160.89Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

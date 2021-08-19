@@ -1,0 +1,74 @@
+Copyright: 2018 Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+bar_about.svg
+bar_help.svg
+bar_home.svg
+bar_next.svg
+bar_previous.svg
+background.svg
+backcard.svg
+emptycard.svg
+balloons_good.svg
+
+Copyright: 2018 Artemis Gergopoulou, Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+bar_fullscreen.svg
+
+Sound effects obtained from https://www.freetousesounds.com
+Copyright: Free to Use Sounds
+License: Free to Use Sounds Standard License
+Files:
+cat.ogg
+dog.ogg
+
+Sound effects from Free Sound Effects
+Copyright: Free sound effects
+License: Free sound effects standard license
+Files:
+pig.ogg
+
+
+Other sound effects from soundbible.com
+License: Attribution 3.0
+Other sound effects from zapsplat.com
+License: Zapsplat.com Standard License
+Files:
+bear.ogg
+bluebirds.ogg
+chicken.ogg
+cow.ogg
+elephant.ogg
+fox.ogg
+frog.ogg
+gnu.ogg
+hippo.ogg
+lion.ogg
+monkey.ogg
+panda.ogg
+penguin.ogg
+redbird.ogg
+sheep.ogg
+wolf.ogg
+
+Copyright: 2000, 2008 Bruno Coudoin and others
+License: GPLv3
+Files:
+01_cat.png
+02_pig.png
+03_bear.png
+04_hippopotamus.png
+05_penguin.png
+06_cow.png
+07_sheep.png
+09_panda.png
+10_chicken.png
+11_redbird.png
+12_wolf.png
+13_monkey.png
+14_fox.png
+15_bluebirds.png
+16_elephant.png
+17_lion.png
+18_gnu.png
+19_frog.png

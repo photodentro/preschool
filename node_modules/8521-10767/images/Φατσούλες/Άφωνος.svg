@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.56" height="86.56" viewBox="0 0 86.56 86.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffce00;
+      }
+
+      .cls-2 {
+        fill: #562912;
+      }
+    </style>
+  </defs>
+  <title>Asset 38emoji</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <circle class="cls-1" cx="43.28" cy="43.28" r="43.28" transform="matrix(0.23, -0.97, 0.97, 0.23, -8.81, 75.41)"/>
+        <path class="cls-2" d="M63,56.7H23.53a2.12,2.12,0,1,1,0-4.23H63a2.12,2.12,0,0,1,0,4.23Z"/>
+        <g>
+          <path class="cls-2" d="M65.92,35.91a4.57,4.57,0,1,1-4.57-4.57A4.56,4.56,0,0,1,65.92,35.91Z"/>
+          <path class="cls-2" d="M29.77,35.91a4.57,4.57,0,1,1-4.57-4.57A4.57,4.57,0,0,1,29.77,35.91Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

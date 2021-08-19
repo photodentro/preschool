@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="177.96" height="256.86" viewBox="0 0 177.96 256.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #eceefa;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #55dcf2;
+      }
+
+      .cls-5 {
+        fill: #17bce2;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path class="cls-1" d="M177.63,230.9c-5.42-23.9-4.06-145.66-4.06-145.66-55.52-17.59-24.8-80.72-24.8-80.72L133.88,0C129.59,45.56,114,57.7,90.39,57.7S51.2,45.56,46.9,0L32,4.52S62.73,67.65,7.22,85.24c0,0,1.35,121.76-4.06,145.66,0,0-10.24,14.44,82.52,15.36v0H95.1v0C187.86,245.34,177.63,230.9,177.63,230.9Z"/>
+    </clipPath>
+  </defs>
+  <title>Asset 6clothes3</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="OBJECTS">
+      <g>
+        <g>
+          <path class="cls-2" d="M177.63,230.9c-5.42-23.9-4.06-145.66-4.06-145.66-55.52-17.59-24.8-80.72-24.8-80.72L133.88,0C129.59,45.56,114,57.7,90.39,57.7S51.2,45.56,46.9,0L32,4.52S62.73,67.65,7.22,85.24c0,0,1.35,121.76-4.06,145.66,0,0-10.24,14.44,82.52,15.36v0H95.1v0C187.86,245.34,177.63,230.9,177.63,230.9Z"/>
+          <g class="cls-3">
+            <g>
+              <g>
+                <g>
+                  <rect class="cls-4" y="11.54" width="177.96" height="1.81"/>
+                  <g>
+                    <rect class="cls-4" y="20.55" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="29.57" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="38.59" width="177.96" height="1.81"/>
+                  </g>
+                  <g>
+                    <rect class="cls-4" y="47.61" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="56.63" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="65.65" width="177.96" height="1.81"/>
+                  </g>
+                </g>
+                <g>
+                  <rect class="cls-4" y="74.67" width="177.96" height="1.81"/>
+                  <g>
+                    <rect class="cls-4" y="83.69" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="92.71" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="101.73" width="177.96" height="1.81"/>
+                  </g>
+                  <g>
+                    <rect class="cls-4" y="110.74" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="119.76" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="128.78" width="177.96" height="1.81"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <g>
+                  <rect class="cls-4" y="137.8" width="177.96" height="1.81"/>
+                  <g>
+                    <rect class="cls-4" y="146.82" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="155.84" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="164.86" width="177.96" height="1.81"/>
+                  </g>
+                  <g>
+                    <rect class="cls-4" y="173.88" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="182.9" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="191.92" width="177.96" height="1.81"/>
+                  </g>
+                </g>
+                <g>
+                  <rect class="cls-4" y="200.93" width="177.96" height="1.81"/>
+                  <g>
+                    <rect class="cls-4" y="209.95" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="218.97" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="227.99" width="177.96" height="1.81"/>
+                  </g>
+                  <g>
+                    <rect class="cls-4" y="237.01" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="246.03" width="177.96" height="1.81"/>
+                    <rect class="cls-4" y="255.05" width="177.96" height="1.81"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path class="cls-5" d="M133.91,0c-4.31,45.38-19.85,57.6-43.49,57.69C66.78,57.6,51.24,45.38,46.93,0l-5,1.52s1.17,63.65,48.52,61.55c47.35,2.1,48.52-61.54,48.52-61.55Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

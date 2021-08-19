@@ -1,0 +1,153 @@
+<!doctype html> 
+<!-- Copyright (C) 2018 Alkis Georgopoulos <alkisg@gmail.com>. License: GPLv3. -->
+<html lang="el"> 
+<head> 
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="activity.css">
+  <title>Παιχνίδι μνήμης</title> 
+  <script src="activity.js"></script>  
+</head>
+
+<body>
+  <div id="sounds">
+    <audio  id = "a0audio">
+        <source src="./resource/cat.mp3" type="audio/mp3"></audio>
+    <audio  id = "a1audio">
+        <source src="./resource/pig.mp3" type="audio/mp3"></audio>
+    <audio  id = "a2audio">
+        <source src="./resource/bear.mp3" type="audio/mp3"></audio>
+    <audio  id = "a3audio">
+        <source src="./resource/hippo.mp3" type="audio/mp3"></audio>
+    <audio  id = "a4audio">
+        <source src="./resource/penguin.mp3" type="audio/mp3"></audio>
+    <audio  id = "a5audio">
+        <source src="./resource/cow.mp3" type="audio/mp3"></audio>
+    <audio  id = "a6audio">
+        <source src="./resource/sheep.mp3" type="audio/mp3"></audio>
+    <audio  id = "a7audio">
+        <source src="./resource/panda.mp3" type="audio/mp3"></audio>
+    <audio  id = "a8audio">
+        <source src="./resource/chicken.mp3" type="audio/mp3"></audio>
+    <audio  id = "a9audio">
+        <source src="./resource/redbird.mp3" type="audio/mp3"></audio>
+    <audio  id = "a10audio">
+        <source src="./resource/wolf.mp3" type="audio/mp3"></audio>
+    <audio  id = "a11audio">
+        <source src="./resource/monkey.mp3" type="audio/mp3"></audio>
+    <audio  id = "a12audio">
+        <source src="./resource/fox.mp3" type="audio/mp3"></audio>
+    <audio  id = "a13audio">
+        <source src="./resource/bluebirds.mp3" type="audio/mp3"></audio>
+    <audio  id = "a14audio">
+        <source src="./resource/elephant.mp3" type="audio/mp3"></audio>
+    <audio  id = "a15audio">
+        <source src="./resource/lion.mp3" type="audio/mp3"></audio>
+    <audio  id = "a16audio">
+        <source src="./resource/gnu.mp3" type="audio/mp3"></audio>
+    <audio  id = "a17audio">
+        <source src="./resource/frog.mp3" type="audio/mp3"></audio>
+  </div>
+    
+    <img id = "emptycards" src="resource/emptycard.svg">
+    <img id = "backcards" src="resource/backcard.svg">
+    <div id="animals">
+        <img id = "a0" src="resource/01_cat.png">
+        <img id = "a1" src="resource/02_pig.png">
+        <img id = "a2" src="resource/03_bear.png">
+        <img id = "a3" src="resource/04_hippopotamus.png">
+        <img id = "a4" src="resource/05_penguin.png">
+        <img id = "a5" src="resource/06_cow.png">
+        <img id = "a6" src="resource/07_sheep.png">
+        <img id = "a7" src="resource/09_panda.png">
+        <img id = "a8" src="resource/10_chicken.png">
+        <img id = "a9" src="resource/11_redbird.png">
+        <img id = "a10" src="resource/12_wolf.png">
+        <img id = "a11" src="resource/13_monkey.png">
+        <img id = "a12" src="resource/14_fox.png">
+        <img id = "a13" src="resource/15_bluebirds.png">
+        <img id = "a14" src="resource/16_elephant.png">
+        <img id = "a15" src="resource/17_lion.png">
+        <img id = "a16" src="resource/18_gnu.png">
+        <img id = "a17" src="resource/19_frog.png">
+    </div>
+    <div id="main">
+      <div id="cards">
+        <img id="balloongood" src="resource/balloons_good.svg">
+        <div class="row" id="row1">
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r0c0">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar0c0">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r0c1">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar0c1">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r0c2">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar0c2">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r0c3">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar0c3">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r0c4">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar0c4">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r0c5">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar0c5">
+          </div>
+        </div>
+        <div class="row" id="row2">
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r1c0">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar1c0">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r1c1">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar1c1">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r1c2">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar1c2">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r1c3">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar1c3">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r1c4">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar1c4">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r1c5">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar1c5">
+          </div>
+        </div>
+        <div class="row" id="row3">
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r2c0">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar2c0">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r2c1">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar2c1">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r2c2">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar2c2">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r2c3">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar2c3">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r2c4">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar2c4">
+          </div>
+          <div class="col"><img src="resource/backcard.svg" class="card" id="r2c5">
+                           <img src="./resource/01_cat.png" class="animal"  id="ar2c5">
+          </div>
+        </div>
+    </div>
+    <div id="menubar">
+        <img id = "bar_home" src="resource/bar_home.svg">
+        <img id = "bar_help" src="resource/bar_help.svg">
+        <img id = "bar_about" src="resource/bar_about.svg">
+        <img id = "bar_fullscreen" src="resource/bar_fullscreen.svg">
+        <img id = "bar_previous" src="resource/bar_previous.svg">
+        <p id="level">1</p>
+        <img id = "bar_next" src="resource/bar_next.svg">
+    </div>
+    <div id="help"><div class="dialog">Προσπάθησε να θυμηθείς που είναι τα ίδια ζωάκια, για να τα εμφανίσεις σε ζευγάρια.</div>
+    <audio  id="audiohelp">
+      <source src="resource/help.mp3" type="audio/mp3">
+    </audio></div>
+    </div>
+    
+</body>
+</html>

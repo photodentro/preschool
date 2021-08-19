@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558.51" height="699" viewBox="0 0 558.51 699">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #667d36;
+      }
+
+      .cls-2 {
+        fill: #f26f25;
+      }
+
+      .cls-3 {
+        fill: #b6d23f;
+      }
+
+      .cls-4 {
+        fill: #acc037;
+      }
+
+      .cls-5 {
+        fill: #74a040;
+      }
+
+      .cls-6 {
+        fill: #6a893a;
+      }
+
+      .cls-7 {
+        fill: #d3de48;
+      }
+    </style>
+  </defs>
+  <title>Asset 12clothes</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Слой_1" data-name="Слой 1">
+      <g>
+        <polygon class="cls-1" points="230.52 552.93 230.97 508.44 110.69 475.74 98.74 614.85 302.65 681.69 350.69 665.94 351.48 585.82 230.52 552.93"/>
+        <rect class="cls-2" x="170.25" width="222.98" height="15.15"/>
+        <rect class="cls-1" x="186.56" y="15.15" width="185.28" height="381.26"/>
+        <path class="cls-3" d="M207.18,586l.45-44.49L87.35,508.8,122.72,96.52,61.31,50.64A50.62,50.62,0,0,1,112,0H196.7l82.5,205.25.09,400.34Z"/>
+        <polygon class="cls-4" points="0 477.15 60.79 485.89 122.72 96.52 61.31 50.65 0 477.15"/>
+        <rect class="cls-2" x="29.59" y="407.17" width="14.16" height="61.42" transform="translate(-401.97 411.87) rotate(-81.82)"/>
+        <g>
+          <path class="cls-5" d="M435.79,96.52,483.1,647.91,327.35,699l.8-80.12-48.84-13.29V205.25L361.81,0h84.73A50.62,50.62,0,0,1,497.2,50.64Z"/>
+          <polygon class="cls-6" points="558.51 477.15 497.71 485.89 435.78 96.52 497.2 50.65 558.51 477.15"/>
+          <rect class="cls-2" x="491.13" y="430.79" width="61.42" height="14.16" transform="translate(-56.99 78.7) rotate(-8.18)"/>
+          <polygon class="cls-3" points="361.81 0.01 388.25 690.15 456.01 672.1 361.81 0.01"/>
+        </g>
+        <polygon class="cls-7" points="196.7 0.01 173.78 556.94 122.72 541.5 196.7 0.01"/>
+      </g>
+    </g>
+  </g>
+</svg>

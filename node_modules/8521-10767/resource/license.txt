@@ -1,0 +1,18 @@
+Copyright: 2018 Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+images/*
+/resource/background.svg
+/resource/bar0_off.svg
+/resource/bar0_on.svg
+/resource/bar1_off.svg
+/resource/bar1_on.svg
+/resource/bar2_off.svg
+/resource/bar2_on.svg
+/resource/bar3_off.svg
+/resource/bar3_on.svg
+
+Copyright: https://github.com/tinymce/tinymce
+License: LGPL-2.1
+Files:
+js/*

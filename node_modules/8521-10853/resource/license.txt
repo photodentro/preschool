@@ -1,0 +1,23 @@
+Copyright: 2018 Georgios Piskopanis
+License: CC BY-NC-SA 4.0
+Files:
+bar_help.svg
+bar_home.svg
+bar_next.svg
+bar_previous.svg
+bar_about.svg
+
+Designed by Freepik
+Copyright: 2018 Freepik
+License: Freepik standard license
+Files:
+flashlightOn.svg
+flashlightOff.svg
+ropeEnd.svg
+toyBall.svg
+toyBear.svg
+toyCar.svg
+toyDino.svg
+toyDoll.svg
+toyRobot.svg
+toyTrain.svg

@@ -1,0 +1,117 @@
+<!doctype html>
+<!--
+Copyright (C) 2018 Alkis Georgopoulos <alkisg@gmail.com>.
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+<html lang="el">
+<head>
+  <meta charset="UTF-8">
+  <title>Πίνακας διπλής εισόδου (τάξη)</title>
+  <style>
+    /* Dummy style for animations */
+  </style>
+  <link rel="stylesheet" type="text/css" href="activity.css">
+  <script>
+
+  </script>
+  <script src="activity.js"></script>
+</head>
+<body>
+<div id="main">
+  <div id = "pages">
+    <div id="pageMenu">
+        <img id="ppButton" class="changepage" src="resource/prevpage.svg"/>
+        <div id="pagenum">1/4</div>
+        <img id="npButton" class="changepage" src="resource/nextpage.svg"/>
+    </div>
+  </div>
+  <div id = "persons">
+    <div class="person">
+      <div id="page0">
+       <div class="index">1.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">2.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">3.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">4.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">5.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">6.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">7.</div><input class="pname" type="text" placeholder="Όνομα">
+      </div>
+      <div id="page1">
+       <div class="index">8. </div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">9. </div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">10.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">11.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">12.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">13.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">14.</div><input class="pname" type="text" placeholder="Όνομα">
+      </div>
+      <div id="page2">
+       <div class="index">15.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">16.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">17.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">18.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">19.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">20.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">21.</div><input class="pname" type="text" placeholder="Όνομα">
+      </div>
+      <div id="page3">
+       <div class="index">22.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">23.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">24.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">25.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">26.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">27.</div><input class="pname" type="text" placeholder="Όνομα">
+       <div class="index">28.</div><input class="pname" type="text" placeholder="Όνομα">
+      </div>      
+    </div>
+  </div>
+  <div id = "inputTable">
+  	<div class="cell" id="i00"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i01"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i02"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i03"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i10"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i11"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i12"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i13"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i20"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i21"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i22"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i23"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i30"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i31"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i32"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i33"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i40"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i41"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i42"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i43"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i50"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i51"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i52"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i53"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i60"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i61"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i62"><img src="resource/checkmark.svg"/></div>
+    <div class="cell" id="i63"><img src="resource/checkmark.svg"/></div>
+  </div>
+  <div id="barchart">
+    <div id="answered">
+      Μαθητές που απάντησαν: 0
+    </div>
+  	<svg id="bc" viwebox="0 0 22 21">
+  	</svg>
+  </div>
+
+  <div id="menubar">
+    <img id="bar_home" src="resource/bar_home.svg" alt="Αρχική" title="Επιστροφή στην αρχική σελίδα">
+    <img id="bar_help" src="resource/bar_help.svg" alt="Βοήθεια" title="Βοήθεια">
+    <img id="bar_about" src="resource/bar_about.svg" alt="Περί" title="Περί">
+    <img id="bar_fullscreen" src="resource/bar_fullscreen.svg" alt="Πλήρης οθόνη" title="Πλήρης οθόνη">
+    <img id="bar_reset" src="resource/bar_reset.svg" alt="Επανεκκίνηση" title="Επανεκκίνηση">
+    <img id="bar_graph" src="resource/bar_graph.svg" alt="Ραβδόγραμμα" title="Ραβδόγραμμα">
+  </div>
+</div>  
+<div id="help"><div class="dialog">Γράψτε τα ονόματα της τάξης σας και συμπληρώστε την επιλογή σας. Πατήστε το κουμπί για να δείτε το ραβδόγραμμα των επιλογών σας.</div>
+</body>
+</html>

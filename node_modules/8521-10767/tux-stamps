@@ -1,0 +1,35 @@
+#!/bin/sh
+# Convert tuxpaint stamps into tinymce image_list JSON format.
+# apt source tuxpaint-stamps; cd stamps; and then run this.
+
+if [ ! -d "$1" ]; then
+    printf "Usage: %s directory\n" "$0" >&2
+    exit 1
+fi
+
+cd "$1"
+echo '['
+unset separator
+while read -r txt; do
+#    echo "txt=$txt"
+    translation=$(sed -n 's/el.utf8=//p' "$txt")
+    translation=${translation%.}
+    test -n "$translation" || continue
+    pic=${txt%.txt}
+    if [ -f "$pic.png" ]; then
+        line="  { \"title\": \"$pic: $translation\", \"value\": \"$pic.png\" }"
+    elif [ -f "$pic.svg" ]; then
+        line="  { \"title\": \"$pic: $translation\", \"value\": \"$pic.svg\" }"
+    else
+        printf "%s not found!\n" "$pic" >&2
+        unset line
+    fi
+    # Avoid echoing the last comma
+    if [ -n "$line" ]; then
+        printf "$separator%s" "$line"
+        separator=",\n"
+    fi
+done <<EOF
+$(find "." -name '*.txt' | sed 's@^./@@' | sort)
+EOF
+printf '\n]'
